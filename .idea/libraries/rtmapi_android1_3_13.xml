@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="rtmapi-android1.3.13">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/rtmapi-android1.3.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

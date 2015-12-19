@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/manavdutta1/AndroidStudioProjects/EffectiveNavigation%202/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">RememberMilkVoice</string>
+    <string name="demo_collection">Enter your username</string>
+    <string name="demo_external_activity">Enter your password</string>
+    <string name="dummy_section_text">Section 3 is where you choose what you want..</string>
+</resources>

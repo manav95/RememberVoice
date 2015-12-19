@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/manavdutta1/Downloads/adt-bundle-mac-x86_64-20140702 2/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/manavdutta1/AndroidStudioProjects/EffectiveNavigation 2/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-62399a9c7c95f2a65347caeef52f71a378e01369.jar" />
+    </item>
+    <item
+        jar="/Users/manavdutta1/AndroidStudioProjects/EffectiveNavigation 2/app/libs/rtmapi-android1.3.13.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f7cda40e47ce079a4655c93caaca34b756702940">
+        <dex dex="/Users/manavdutta1/AndroidStudioProjects/EffectiveNavigation 2/app/build/intermediates/pre-dexed/debug/rtmapi-android1.3.13-8adf723a79b0ff4f76f7bdf9ef510344eab84181.jar" />
+    </item>
+
+</items>
